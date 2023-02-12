@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "isomorphic-fetch": "^3.0.0",
     "node-fetch": "^2.6.1",
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.20",
     "parallel-each": "^1.1.7",
     "polly-js": "^1.8.3",
     "q": "^1.5.1",
